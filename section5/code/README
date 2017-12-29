@@ -1,0 +1,6 @@
+JWT stands for Jason Web Token
+
+We tested in the get specific item method, and we got the error authorization required.
+In POSTMAN to test this, we put a header Authorization and value JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZGVudGl0eSI6MSwiaWF0IjoxNTEzNTM0MDMwLCJuYmYiOjE1MTM1MzQwMzAsImV4cCI6MTUxMzUzNDMzMH0.aHs_SDNcJRppxpRpGh0YZvHo-aIQVwsguK-ttJzGJPM
+
+that we got from our auth end-point
